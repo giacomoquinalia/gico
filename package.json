@@ -18,5 +18,9 @@
   "devDependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inversify/InversifyJS.git"
   }
 }
