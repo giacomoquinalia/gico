@@ -1,5 +1,5 @@
 {
-  "name": "gico",
+  "name": "gicojs",
   "version": "0.0.1",
   "description": "A dependecy injection based application framework for Node.js.",
   "main": "lib/gico.js",
@@ -21,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/inversify/InversifyJS.git"
+    "url": "https://github.com/giacomoquinalia/gico.git"
   }
 }
