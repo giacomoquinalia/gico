@@ -1,0 +1,22 @@
+{
+  "name": "gico",
+  "version": "0.0.1",
+  "description": "A dependecy injection based application framework for Node.js.",
+  "main": "lib/gico.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "build": "tsc -p src/tsconfig.json"
+  },
+  "author": "Giácomo G. A. Quinalia",
+  "license": "MIT",
+  "dependencies": {
+    "inversify": "^6.0.2",
+    "reflect-metadata": "^0.2.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
