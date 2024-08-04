@@ -1,4 +1,4 @@
-# FX
+# Gico
 
 A dependecy injection based application framework for Node.js.
 
